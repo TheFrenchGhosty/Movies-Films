@@ -8,7 +8,7 @@
 
 [DreamWorks Animation](https://en.wikipedia.org/wiki/DreamWorks_Animation)
 
-[Illumination](https://en.wikipedia.org/wiki/Illumination_(company)
+[Illumination](https://en.wikipedia.org/wiki/Illumination_(company))
 
 [Marvel Animation](https://en.wikipedia.org/wiki/Marvel_Animation)
 
