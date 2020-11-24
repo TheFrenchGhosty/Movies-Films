@@ -1,11 +1,10 @@
-
 Akira Kurosawa
 
 Alain Resnais
 
-Albert Dupontel
+[Albert Dupontel](https://en.wikipedia.org/wiki/Albert_Dupontel#As_filmmaker)
 
-Alejandro González Iñárritu
+[Alejandro González Iñárritu](https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu#Filmography)
 
 Alejandro Jodorowsky
 
@@ -21,7 +20,7 @@ Arthur Penn
 
 Ben Stiller
 
-Bong Joon-ho
+[Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho#Feature_films)
 
 Brian De Palma
 
@@ -31,7 +30,7 @@ Buster Keaton
 
 Chris Columbus
 
-Christopher Nolan
+[Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan_filmography#Films)
 
 Clint Eastwood
 
@@ -55,7 +54,7 @@ Denis Villeneuve
 
 Don Bluth
 
-Edgar Wright
+[Edgar Wright](https://en.wikipedia.org/wiki/Edgar_Wright#Film)
 
 Enki Bilal
 
@@ -85,7 +84,7 @@ Guillermo Del Toro
 
 Gus Van Sant
 
-Guy Ritchie
+[Guy Ritchie](https://en.wikipedia.org/wiki/Guy_Ritchie#Film)
 
 Hayao Miyazaki
 
@@ -127,7 +126,7 @@ John Woo
 
 Juan Antonio Bayona
 
-Kim Jee-woon
+[Kim Jee-woon](https://en.wikipedia.org/wiki/Kim_Jee-woon#Feature_film)
 
 Kim Ki-duk
 
@@ -157,7 +156,7 @@ Orson Welles
 
 Paolo Sorrentino
 
-Park Chan-wook
+[Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook#Films)
 
 Paul Thomas Anderson
 
@@ -167,7 +166,7 @@ Peter Jackson
 
 Quentin Dupieux
 
-Quentin Tarantino
+[Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino_filmography#Film)
 
 Richard Donner
 
@@ -177,7 +176,7 @@ Ringo Lam
 
 Robert Rodriguez
 
-Robert Zemeckis
+[Robert Zemeckis](https://en.wikipedia.org/wiki/Robert_Zemeckis#Film)
 
 Roland Emmerich
 
@@ -185,7 +184,7 @@ Roman Polanski
 
 Sam Mendes
 
-Sam Raimi
+[Sam Raimi](https://en.wikipedia.org/wiki/Sam_Raimi#Film_2)
 
 Satoshi Kon
 
@@ -213,9 +212,9 @@ Takeshi Kitano
 
 Terrence Malick
 
-Terry Gilliam
+[Terry Gilliam](https://en.wikipedia.org/wiki/Terry_Gilliam_filmography#Films)
 
-The Wachowskis
+[The Wachowskis](https://en.wikipedia.org/wiki/The_Wachowskis#Films)
 
 Tim Burton
 
@@ -223,7 +222,7 @@ Tod Browning
 
 Tsui Hark
 
-Wes Anderson
+[Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson#Feature_films)
 
 Wes Craven
 

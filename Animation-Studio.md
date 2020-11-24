@@ -16,4 +16,4 @@
 
 [Studio Ghibli](https://en.wikipedia.org/wiki/Studio_Ghibli)
 
-[Vanguard Animation](https://en.wikipedia.org/wiki/Vanguard_Animation)
+[Vanguard Animation](https://en.wikipedia.org/wiki/Vanguard_Animation#Released_films)
